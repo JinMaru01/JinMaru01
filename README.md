@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darachin KONG</h1>
+<h1 align="center">Hi 👋, I'm Darachin</h1>
 <h3 align="center">A Passionate Practitioner of Natural Language Processing and Artificial Intelligence</h3>
 
 <p align="center">
