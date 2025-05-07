@@ -103,6 +103,6 @@ Hi, I’m **Darachin**, a senior student with a deep interest in building real-w
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinmaru01&" alt="jinmaru01" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinmaru01" alt="jinmaru01" />
 </p>
 
