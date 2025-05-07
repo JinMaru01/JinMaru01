@@ -89,7 +89,7 @@ Hi, I’m **Darachin**, a senior student with a deep interest in building real-w
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jinmaru01&theme=flat&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jinmaru01&theme=flat&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B,C" />
   </a>
 </p>
 
