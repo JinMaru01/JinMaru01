@@ -15,7 +15,7 @@ Hi, I’m **Darachin**, a senior student with a deep interest in building real-w
 
 ### 🚀 Projects
 
-- 🔭 I’m currently working on: [Employee Onboarding Chatbot](https://github.com/JinMaru01/Employee_onboarding_chatbot)
+- 🔭 I’m currently working on: [Luy Tracker App](https://github.com/JinMaru01/luy_tracker)
 - 👨‍💻 Collaborating on: [Luy Tracker App](https://github.com/JinMaru01/luy_tracker)
 - 🤝 Looking for contributors/support for: [Luy Tracker App](https://github.com/JinMaru01/luy_tracker)
 
