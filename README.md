@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-Hi, I’m **Darachin**, a senior student with a deep interest in building real-world AI applications — especially in **Natural Language Processing (NLP)**. I'm actively exploring how chatbots and intelligent systems can help solve real-world problems in Cambodia and beyond.
+Hi, I’m **Darachin**, a senior student with a deep interest in building real-world AI applications — especially in **Natural Language Processing (NLP)**. I'm actively exploring tool deployments for machine learning models and building an optimized pipeline for machine learning model inference on the production server. I am also interested in creating a web application for daily use that can be improved to live better.
 
 ---
 
@@ -23,9 +23,9 @@ Hi, I’m **Darachin**, a senior student with a deep interest in building real-w
 
 ### 🌱 Currently Learning
 
-- NLP techniques for chatbot development
 - MLOps pipelines and deployment
-- Multilingual NER & intent classification
+- Technologies and tools for MLOps
+- Integration machine learning model with a real-world system
 
 ---
 
@@ -80,6 +80,7 @@ Hi, I’m **Darachin**, a senior student with a deep interest in building real-w
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" /></a>
   <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" /></a>
   <a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" /></a>
+  <a href="https://mlflow.org/" target="_blank"><img src="https://images.chainguard.dev/logos/mlflow.svg" width="40" /></a>
 </p>
 
 
