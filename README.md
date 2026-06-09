@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darachin</h1>
-<h3 align="center">A Passionate Practitioner of Natural Language Processing and Artificial Intelligence</h3>
+<h3 align="center">Building Agentic AI Systems & Production ML Pipelines</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jinmaru01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,23 +9,27 @@
 
 ### 🧠 About Me
 
-Hi, I’m **Darachin**, a senior student with a deep interest in building real-world AI applications — especially in **Natural Language Processing (NLP)**. I'm actively exploring tool deployments for machine learning models and building an optimized pipeline for machine learning model inference on the production server. I am also interested in creating a web application for daily use that can be improved to live better.
+I'm **Darachin**, an AI engineer focused on **agentic AI** and **autonomous AI agents**. I design multi-agent systems that can reason, plan, use tools, and orchestrate complex workflows — and I care just as much about getting them into production reliably as I do about building them. My work sits at the intersection of LLM orchestration, agent architecture, and MLOps.
+
+Lately I've been deep in **multi-agent orchestration** (LangGraph, LangChain), tool-calling agents, and serving local LLMs for real-world tasks — including multilingual use cases.
 
 ---
 
-### 🚀 Projects
+### 🚀 What I'm Building
 
-- 🔭 I’m currently working on: [Luy Tracker App](https://github.com/JinMaru01/luy_tracker)
-- 👨‍💻 Collaborating on: [Luy Tracker App](https://github.com/JinMaru01/luy_tracker)
-- 🤝 Looking for contributors/support for: [Luy Tracker App](https://github.com/JinMaru01/luy_tracker)
+- 🤖 **Multi-agent systems** — orchestrator + specialized agents, LLM-based routing, per-agent memory, and structured logging
+- 🔁 **Agentic workflows** — ReAct-style reasoning, tool use, and self-improvement / feedback loops
+- ⚙️ **Production serving** — FastAPI streaming endpoints, local LLM inference (Ollama), and deployment pipelines
+- 🌍 **Multilingual AI** — fine-tuning and serving models with a focus on lower-resource languages
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Exploring
 
-- MLOps pipelines and deployment
-- Technologies and tools for MLOps
-- Integration machine learning model with a real-world system
+- Agent frameworks: **LangGraph**, **LangChain**, **CrewAI**, **AutoGen**
+- Agent design patterns: ReAct, planner-executor, orchestrator-worker, reflection
+- Local LLM fine-tuning: **QLoRA / Unsloth → GGUF → Ollama** workflows
+- Robust MLOps for agentic systems: evaluation, observability, and monitoring
 
 ---
 
@@ -41,21 +45,41 @@ Hi, I’m **Darachin**, a senior student with a deep interest in building real-w
   <a href="https://linkedin.com/in/jinmaruhhh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://t.me/Jin_Ohara" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" height="30" width="40" /></a>
 </p>
+
 ---
 
 ### 🛠️ Languages & Tools
+
+#### 🤖 Agentic AI & LLMs
+
+<p>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/wordmark.png" height="40" /></a>
+  <a href="https://ollama.com/" target="_blank"><img src="https://ollama.com/public/ollama.png" width="40" /></a>
+  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" /></a>
+  <a href="https://www.anthropic.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="" style="display:none" /></a>
+</p>
 
 #### 👨‍💻 Programming & Frameworks
 
 <p>
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" /></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /></a>
 </p>
 
+#### 🧪 AI/ML & MLOps
+
+<p>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" /></a>
+  <a href="https://mlflow.org/" target="_blank"><img src="https://images.chainguard.dev/logos/mlflow.svg" width="40" /></a>
+  <a href="https://airflow.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40" /></a>
+</p>
 
 #### ⚙️ DevOps & Databases
 
@@ -65,33 +89,7 @@ Hi, I’m **Darachin**, a senior student with a deep interest in building real-w
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" /></a>
   <a href="https://redis.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" /></a>
-</p>
-
-
-#### 🧪 AI/ML Tools
-
-<p>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" /></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" /></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" /></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" /></a>
-  <a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" /></a>
-  <a href="https://mlflow.org/" target="_blank"><img src="https://images.chainguard.dev/logos/mlflow.svg" width="40" /></a>
-</p>
-
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jinmaru01&theme=flat&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B,C" />
-  </a>
 </p>
 
 ---
@@ -107,3 +105,12 @@ Hi, I’m **Darachin**, a senior student with a deep interest in building real-w
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jinmaru01" alt="jinmaru01" />
 </p>
 
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jinmaru01&theme=flat&margin-w=10&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  </a>
+</p>
