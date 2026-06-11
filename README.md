@@ -53,7 +53,7 @@ Lately I've been deep in **multi-agent orchestration** (LangGraph, LangChain), t
 #### 🤖 Agentic AI & LLMs
 
 <p>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAiZAAZAA0" height="90" /></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAiZAAZAA0" height="70" /></a>
   <a href="https://ollama.com/" target="_blank"><img src="https://ollama.com/public/ollama.png" width="40" /></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" /></a>
   <a href="https://www.anthropic.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="" style="display:none" /></a>
@@ -66,7 +66,7 @@ Lately I've been deep in **multi-agent orchestration** (LangGraph, LangChain), t
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" width="40" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" width="70" /></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /></a>
 </p>
 
