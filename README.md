@@ -53,7 +53,7 @@ Lately I've been deep in **multi-agent orchestration** (LangGraph, LangChain), t
 #### 🤖 Agentic AI & LLMs
 
 <p>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAiZAAZAA0" height="40" /></a>
+  <a href="https://www.langchain.com/" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAiZAAZAA0" /></a>
   <a href="https://ollama.com/" target="_blank"><img src="https://ollama.com/public/ollama.png" width="40" /></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" /></a>
   <a href="https://www.anthropic.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" alt="" style="display:none" /></a>
